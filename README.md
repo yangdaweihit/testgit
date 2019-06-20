@@ -1,9 +1,12 @@
 # Hello, GIT
 
+- bbb
+- 1st line
+- 2nd line
+- ydw
+- aaa
+- ccc
+000000000000
 
-
-asdfasdfqewr
-
-
-asdf
-77777777777777
+wlj
+111111111111
